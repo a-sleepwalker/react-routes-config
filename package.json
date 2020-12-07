@@ -1,11 +1,17 @@
 {
   "private": true,
   "name": "react-routes-config",
-  "version": "1.0.0",
-  "description": "you can config your react-router like vue-router",
+  "version": "1.0.1",
+  "description": "react配置式路由",
   "keywords": [
-    "react-routes-config"
+    "react-routes-config",
+    "react-router"
   ],
+  "homepage": "https://github.com/a-sleepwalker/react-routes-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-sleepwalker/react-routes-config.git"
+  },
   "main": "dist/index.js",
   "files": [
     "dist",
@@ -13,7 +19,7 @@
     "README.md"
   ],
   "types": "index.d.ts",
-  "author": "",
+  "author": "a-sleepwalker",
   "license": "MIT",
   "engines": {
     "node": ">=10.0.0"
